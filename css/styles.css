@@ -57,8 +57,7 @@ input {
 
 @media screen and (max-width: 600px) {
   .container {
-    width: 86%;
-    margin: 0 auto;
+    margin: 0;
   }
 }
 
@@ -73,7 +72,8 @@ input {
 
 @media screen and (max-width: 600px) {
   .cards {
-    width: 250px;
+    width: 90%;
+    margin: 0 auto;
   }
 }
 
@@ -89,7 +89,7 @@ input {
 
 @media screen and (max-width: 600px) {
   .cards label {
-    width: 300px;
+    width: 100%;
   }
 }
 
